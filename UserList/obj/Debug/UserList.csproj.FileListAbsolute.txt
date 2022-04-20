@@ -1,0 +1,6 @@
+D:\Projects\c#\UserList\UserList\bin\Debug\UserList.exe
+D:\Projects\c#\UserList\UserList\bin\Debug\UserList.pdb
+D:\Projects\c#\UserList\UserList\obj\Debug\UserList.csprojAssemblyReference.cache
+D:\Projects\c#\UserList\UserList\obj\Debug\UserList.csproj.CoreCompileInputs.cache
+D:\Projects\c#\UserList\UserList\obj\Debug\UserList.exe
+D:\Projects\c#\UserList\UserList\obj\Debug\UserList.pdb
